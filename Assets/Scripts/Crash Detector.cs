@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class CeashDetector : MonoBehaviour
+public class CrashDetector : MonoBehaviour
 {
     [SerializeField] float delay = 0.5f;
     [SerializeField] ParticleSystem crashEffect;

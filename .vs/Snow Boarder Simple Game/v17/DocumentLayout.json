@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\ProjektyGry\\Snow Boarder Simple Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C668E2C6-FF1A-CFF8-9C2D-7E01867CC33D}|Assembly-CSharp.csproj|c:\\projektygry\\snow boarder simple game\\assets\\scripts\\ceash detector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C668E2C6-FF1A-CFF8-9C2D-7E01867CC33D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ceash detector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C668E2C6-FF1A-CFF8-9C2D-7E01867CC33D}|Assembly-CSharp.csproj|C:\\ProjektyGry\\Snow Boarder Simple Game\\assets\\scripts\\dusttrail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C668E2C6-FF1A-CFF8-9C2D-7E01867CC33D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dusttrail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C668E2C6-FF1A-CFF8-9C2D-7E01867CC33D}|Assembly-CSharp.csproj|c:\\projektygry\\snow boarder simple game\\assets\\scripts\\finish line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C668E2C6-FF1A-CFF8-9C2D-7E01867CC33D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finish line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C668E2C6-FF1A-CFF8-9C2D-7E01867CC33D}|Assembly-CSharp.csproj|c:\\projektygry\\snow boarder simple game\\assets\\scripts\\crash detector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C668E2C6-FF1A-CFF8-9C2D-7E01867CC33D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\crash detector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C668E2C6-FF1A-CFF8-9C2D-7E01867CC33D}|Assembly-CSharp.csproj|c:\\projektygry\\snow boarder simple game\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C668E2C6-FF1A-CFF8-9C2D-7E01867CC33D}|Assembly-CSharp.csproj|C:\\ProjektyGry\\Snow Boarder Simple Game\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C668E2C6-FF1A-CFF8-9C2D-7E01867CC33D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C668E2C6-FF1A-CFF8-9C2D-7E01867CC33D}|Assembly-CSharp.csproj|C:\\ProjektyGry\\Snow Boarder Simple Game\\assets\\scripts\\finish line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C668E2C6-FF1A-CFF8-9C2D-7E01867CC33D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finish line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Ceash Detector.cs",
-              "DocumentMoniker": "C:\\ProjektyGry\\Snow Boarder Simple Game\\Assets\\Scripts\\Ceash Detector.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Ceash Detector.cs",
-              "ToolTip": "C:\\ProjektyGry\\Snow Boarder Simple Game\\Assets\\Scripts\\Ceash Detector.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Ceash Detector.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "DocumentIndex": 1,
+              "Title": "Crash Detector.cs",
+              "DocumentMoniker": "C:\\ProjektyGry\\Snow Boarder Simple Game\\Assets\\Scripts\\Crash Detector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Crash Detector.cs",
+              "ToolTip": "C:\\ProjektyGry\\Snow Boarder Simple Game\\Assets\\Scripts\\Crash Detector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Crash Detector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T11:18:44.623Z",
+              "WhenOpened": "2024-05-12T15:33:29.206Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "DustTrail.cs",
+              "DocumentMoniker": "C:\\ProjektyGry\\Snow Boarder Simple Game\\Assets\\Scripts\\DustTrail.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DustTrail.cs",
+              "ToolTip": "C:\\ProjektyGry\\Snow Boarder Simple Game\\Assets\\Scripts\\DustTrail.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DustTrail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:23:00.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Finish Line.cs",
               "DocumentMoniker": "C:\\ProjektyGry\\Snow Boarder Simple Game\\Assets\\Scripts\\Finish Line.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Finish Line.cs",
@@ -47,8 +64,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Finish Line.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T11:14:47.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T11:14:47.521Z"
             },
             {
               "$type": "Document",
@@ -58,10 +74,9 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
               "ToolTip": "C:\\ProjektyGry\\Snow Boarder Simple Game\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T10:47:28.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T10:47:28.478Z"
             }
           ]
         }
